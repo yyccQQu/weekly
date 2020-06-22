@@ -4,11 +4,57 @@
 
 欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
 
-:speaker: **[公告] 周刊新增[程序员招聘服务](https://github.com/ruanyf/weekly/issues/692)，提供互联网公司的工作/实习岗位，欢迎大家访问，也欢迎企业张贴招聘信息。**
+## 实用信息
+
+- [免费电子书](https://github.com/ruanyf/free-books)
+- [免费音乐](docs/free-music.md)
+- [免费照片](docs/free-photos.md)
+- [免费软件](docs/free-software.md)
+- [谁在招人](https://github.com/ruanyf/weekly/issues/1206)：免费的程序员招聘服务
+
+## 如何搜索
+
+1、使用 [Sourcegraph.com](https://sourcegraph.com/github.com/ruanyf/weekly) 进行搜索。（推荐方法）
+
+2、使用 GitHub 自带的搜索，但只支持搜索英文单词。
+
+3、将这个仓库克隆到本地，然后在仓库目录使用下面的命令。
+
+```bash
+$ grep -nri [搜索词] docs | cat --number
+```
+
+比如，搜索 CSS 相关内容。
+
+```bash
+$ grep -nri css docs | cat --number
+```
+
+## 2020
+
+**六月**：[第 112 期](docs/issue-112.md):high_brightness: | [第 111 期](docs/issue-111.md) | [第 110 期](docs/issue-110.md)
+
+**五月**：[第 109 期](docs/issue-109.md) | [第 108 期](docs/issue-108.md) | [第 107 期](docs/issue-107.md) | [第 106 期](docs/issue-106.md)
+
+**四月**：[第 105 期](docs/issue-105.md) | [第 104 期](docs/issue-104.md) | [第 103 期](docs/issue-103.md) | [第 102 期](docs/issue-102.md) | [第 101 期](docs/issue-101.md)
+
+**三月**：[第 100 期](docs/issue-100.md) | [第 99 期](docs/issue-99.md) | [第 98 期](docs/issue-98.md) | [第 97 期](docs/issue-97.md)
+
+**二月**：[第 96 期](docs/issue-96.md) | [第 95 期](docs/issue-95.md) | [第 94 期](docs/issue-94.md) | [第 93 期](docs/issue-93.md)
+
+**一月**：[第 92 期](docs/issue-92.md) | [第 91 期](docs/issue-91.md) | [第 90 期](docs/issue-90.md) | [第 89 期](docs/issue-89.md)
 
 ## 2019
 
-**八月**：[第 69 期](docs/issue-69.md):high_brightness: | [第 68 期](docs/issue-68.md) | [第 67 期](docs/issue-67.md)
+**十二月**：[第 88 期](docs/issue-88.md) | [第 87 期](docs/issue-87.md) | [第 86 期](docs/issue-86.md) | [第 85 期](docs/issue-85.md)
+
+**十一月**：[第 84 期](docs/issue-84.md) | [第 83 期](docs/issue-83.md) | [第 82 期](docs/issue-82.md) | [第 81 期](docs/issue-81.md) | [第 80 期](docs/issue-80.md)
+
+**十月**：[第 79 期](docs/issue-79.md) | [第 78 期](docs/issue-78.md) | [第 77 期](docs/issue-77.md) | [第 76 期](docs/issue-76.md)
+
+**九月**：[第 75 期](docs/issue-75.md) | [第 74 期](docs/issue-74.md) | [第 73 期](docs/issue-73.md) | [第 72 期](docs/issue-72.md)
+
+**八月**：[第 71 期](docs/issue-71.md) | [第 70 期](docs/issue-70.md) | [第 69 期](docs/issue-69.md) | [第 68 期](docs/issue-68.md) | [第 67 期](docs/issue-67.md)
 
 **七月**：[第 66 期](docs/issue-66.md) | [第 65 期](docs/issue-65.md) | [第 64 期](docs/issue-64.md) | [第 63 期](docs/issue-63.md)
 
